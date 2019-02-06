@@ -6,3 +6,4 @@ Cat.prototype.eat = function(){
     this.die = true;
 }
 
+module.exports = Cat;
