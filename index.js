@@ -9,4 +9,3 @@ var meoTom = new Cat('Tom');
 
 dogTom.eat(meoTom);
 
-console.log(meoTom);
