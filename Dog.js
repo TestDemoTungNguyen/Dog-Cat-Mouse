@@ -14,4 +14,8 @@ Dog.prototype.sayHi = function(){
     console.log('Hi, I am'+ chalk.red(this.name));
 }
 
+Dog.prototype.drink = function(){
+    
+}
+
 module.exports = Dog;
